@@ -1,4 +1,4 @@
 # p1
 La primera pàgina web
 
-https://natff2.github.io/p1/
+https://Natff2.github.io/P1/
